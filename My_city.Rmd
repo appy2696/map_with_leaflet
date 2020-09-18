@@ -2,7 +2,9 @@
 title: "Map_with_Leaflet"
 author: "Apoorv"
 date: "19/09/2020"
-output: html_document
+output: 
+  html_document: 
+    keep_md: true 
 ---
 
 ```{r setup, include=FALSE}
